@@ -1,0 +1,9 @@
+.page-container.aside-nav {
+  position:fixed;
+  top: 50px;
+  z-index: 9999;
+}
+
+.clearfix {
+  padding-top:50px;
+}
